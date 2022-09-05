@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR find . –maxdepth 1 –type d -empty
+ls -laR | find . –type d -empty
