@@ -1,0 +1,3 @@
+#!/bin/bash
+$user=`whoami`
+printf("Hello %s", $user)
